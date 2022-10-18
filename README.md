@@ -1,4 +1,4 @@
-# Food-Choices-And-Preferences-of-Colleeg-Students
+# Food-Choices-And-Preferences-of-College-Students
 
 ## Problem statement
 
